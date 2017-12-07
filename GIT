@@ -17,9 +17,9 @@ PARA LISTAR TODAS AS CONFIGURAÇÕES DIGITE: git
 
 -----------------------------------------------------------------------------------------------------------------------
 
-git status MOSTRA STATUS DO REPOSITORIO
+git status MOSTRA STATUS DO REPOSITORIO LOCAL
 
-git add ADICIONA O ARQUIVO AOS QUE IRÃO SER COMMITADOS
+git add ADICIONA O ARQUIVO AOS QUE IRÃO SER COMMITADOS 
 
 git commit COMMITA OS DADOS
 
@@ -29,5 +29,16 @@ git show [hash]  MOSTRA A ALTERAÇÃO
 
 git checkout [arquivo]
 
-git reset [soft mixed hard]
+git reset [--soft --mixed --hard]
 
+-----------------------------------------------------------------------------------------------------------------------
+
+USANDO GITHUB
+
+-CRIAR CONTA NO GITHUB
+-CRIAR REPOSITORIO NO GITHUB
+-CRIAR REPOSITORIO LOCAL
+-LINKAR OS DOIS COM PROTOCOLO HTTPS 
+-FAZER MUDANÇAS NO CODIGO
+-FAZER COMMIT
+-OBSERVAR ALTERAÇÕES NO GITHUB
