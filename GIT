@@ -14,3 +14,20 @@ git config --global core.editor sub
 PARA PESQUISAR UMA CONFIGURAÇÃO BASTA DIGITAR SEM PASSAR O PARAMETRO    EX: git config --global user.name
 
 PARA LISTAR TODAS AS CONFIGURAÇÕES DIGITE: git 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+git status MOSTRA STATUS DO REPOSITORIO
+
+git add ADICIONA O ARQUIVO AOS QUE IRÃO SER COMMITADOS
+
+git commit COMMITA OS DADOS
+
+git log MOSTRA O LOG DE ALTERAÇÕES COM A HASH DE CADA COMMIT
+
+git show [hash]  MOSTRA A ALTERAÇÃO
+
+git checkout [arquivo]
+
+git reset [soft mixed hard]
+
