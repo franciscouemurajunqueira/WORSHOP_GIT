@@ -1,0 +1,16 @@
+GIT 
+
+CONFIGURAÇÕES
+
+-USUARIO
+git config --global user.name "Francisco"
+
+-EMAIL
+git config --global user.email "franciscouemura@gmail.com"
+
+-EDITOR TEXTO
+git config --global core.editor sub
+
+PARA PESQUISAR UMA CONFIGURAÇÃO BASTA DIGITAR SEM PASSAR O PARAMETRO    EX: git config --global user.name
+
+PARA LISTAR TODAS AS CONFIGURAÇÕES DIGITE: git 
